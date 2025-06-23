@@ -14,6 +14,7 @@ Dataset yang digunakan adalah hasil labeling sendiri menggunakan Roboflow, denga
 3. driver
 4. bicyclist
 Namun, proyek ini difokuskan hanya pada 2 label: helmet dan no-helmet, dengan filter pada tahap training/inferensi.
+berikut link dataset yang digunakan: https://universe.roboflow.com/imagerecognition-43zpb/helmet-detection-20241116 
 
 📈 Akurasi Model
 mAP@0.5: ± 90%
