@@ -20,7 +20,3 @@ Namun, proyek ini difokuskan hanya pada 2 label: helmet dan no-helmet, dengan fi
 mAP@0.5: ± 90%
 Precision: ± 91%
 Recall: ± 80%
-
-🖼️ Antarmuka Web
-Upload gambar (.jpg/.png) atau video (.mp4/.avi/.mov)
-Tampilkan hasil deteksi lengkap dengan jumlah objek terdeteksi
