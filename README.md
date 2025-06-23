@@ -2,7 +2,6 @@
 
 Proyek ini bertujuan untuk mendeteksi apakah pengendara roda dua menggunakan helm atau tidak, menggunakan model deteksi objek YOLOv8 dan ditampilkan melalui antarmuka web Flask yang mendukung gambar dan video input.
 
-🚀 Fitur Utama
 ✅ Deteksi objek real-time (gambar atau video)
 ✅ Dua label: helmet dan no-helmet
 ✅ Visualisasi hasil dengan bounding box
