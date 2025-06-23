@@ -1,4 +1,4 @@
-# Sistem-Deteksi-Pemakaian-Helm-oleh-Pengendara-Roda-Dua-Menggunakan-Model-YOLOV8
+# Helmet Detection System
 
 Proyek ini bertujuan untuk mendeteksi apakah pengendara roda dua menggunakan helm atau tidak, menggunakan model deteksi objek YOLOv8 dan ditampilkan melalui antarmuka web Flask yang mendukung gambar dan video input.
 
